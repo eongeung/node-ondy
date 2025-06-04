@@ -1,5 +1,6 @@
 import serial
 from PyQt5.QtCore import QTimer
+print("serial 모듈 위치:", serial.__file__)
 
 def setup_serial_reader(overlay):
     try:
