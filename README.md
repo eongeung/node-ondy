@@ -39,6 +39,3 @@
 
 ## 🚀 실행 방법
 
-dist - ondy_app.exe download
-
-종료 방법 : Ondy를 클릭한 뒤 Q를 누르면 자동 종료료
